@@ -1,0 +1,22 @@
+React-app-setup
+---------------------------------------------
+npx create-react-app react-tute-1
+npm i bootstrap 
+npm i react-router-dom 
+npm i react-icons 
+
+
+
+Git setup 
+----------------------------------------------
+git download from website after download install it properly
+1. git init 
+2. git add . 
+3. git commit -m "first commit"
+4. git remote add origin https://github.com/ArpitaPanda-1999/React-Practice-Youtube.git
+5. git push origin master  (according to branch of github)
+
+
+if git setup shows error
+-----------------------------------------------
+git show-ref or git branch -a
