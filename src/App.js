@@ -1,9 +1,13 @@
 import './App.css';
-import Index from './React-Practice/index.jsx';
+import Index from './React-Practice/Fuction-index.jsx';
+import Index1 from './React-Practice/Fuction-index1.jsx';
 
 function App() {
   return (
-    <Index />
+    <>
+      <Index />  <br/> <br /> 
+      <Index1 />
+    </>
   );
 }
 
