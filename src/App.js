@@ -1,4 +1,5 @@
-import './App.css';
+
+import AppPersonal from './React-Interview-coding-practice/Project-File-Manager/Personal-App.js';
 import ClassIndex from './React-Practice/Class-index.jsx';
 import ClassIndex1 from './React-Practice/Class-index1.jsx';
 import Index from './React-Practice/Fuction-index.jsx';
@@ -15,6 +16,7 @@ function App() {
 
   return (
     <>
+      <AppPersonal /> <br /> <br />
       <Index />  <br/> <br /> 
       <Index1 />  <br/> <br/>
       <ClassIndex />  <br/> <br/>
