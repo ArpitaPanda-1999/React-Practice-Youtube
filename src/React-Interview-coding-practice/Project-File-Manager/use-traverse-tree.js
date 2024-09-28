@@ -8,8 +8,8 @@ const useTraversetree = () => {
                 name : item,
                 isFolder ,
                 items : []
-            });
-            return {tree};
+            })
+            return tree;
         }
         
         let latestNode = [];

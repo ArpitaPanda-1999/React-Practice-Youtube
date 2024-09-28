@@ -16,7 +16,7 @@ const AppPersonal = () => {
 
     return(
         <>
-            <Folder Explorer={explorerData} />
+            <Folder handleInsertNode={handleInsertNode} Explorer={explorerData} />
         </>
     )
 }
