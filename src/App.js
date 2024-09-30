@@ -5,7 +5,7 @@ import ClassIndex1 from './React-Practice/Class-index1.jsx';
 import ClassPropsApp from './React-Practice/Class-props-app.jsx';
 import Index from './React-Practice/Fuction-index.jsx';
 import Index1 from './React-Practice/Fuction-index1.jsx';
-import FirstPropes from './React-Practice/Function-propes.jsx';
+import FirstPropes from './React-Practice/Function-props.jsx';
 
 function App() {
 
