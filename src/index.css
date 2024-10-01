@@ -19,3 +19,10 @@ code {
   display: flex;
   gap: 150px;
 }
+
+.box{
+  height: 100px;
+  width: 100px;
+  background-color: green;
+  color: whitesmoke;
+}
