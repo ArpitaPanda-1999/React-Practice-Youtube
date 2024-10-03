@@ -3,6 +3,7 @@ import AppPersonal from './React-Interview-coding-practice/Project-File-Manager/
 import ClassIndex from './React-Practice/Class-index.jsx';
 import ClassIndex1 from './React-Practice/Class-index1.jsx';
 import ClassPropsApp from './React-Practice/Class-props-app.jsx';
+import FormHandleing from './React-Practice/Form-handling.jsx';
 import Index from './React-Practice/Fuction-index.jsx';
 import Index1 from './React-Practice/Fuction-index1.jsx';
 import FirstPropes from './React-Practice/Function-props.jsx';
@@ -35,6 +36,7 @@ function App() {
       <ClassPropsApp /> <br/> <br/>
       <InputBox /> <br/> <br/>
       <HideShowToggle /> <br/> <br/>
+      <FormHandleing /> <br/> <br/>
     </>
   );
 }
