@@ -26,3 +26,8 @@ code {
   background-color: green;
   color: whitesmoke;
 }
+
+.err{
+  display: inline-block;
+  color: #f10303;
+}

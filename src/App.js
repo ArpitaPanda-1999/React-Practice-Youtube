@@ -5,6 +5,7 @@ import ClassIndex1 from './React-Practice/Class-index1.jsx';
 import ClassPropsApp from './React-Practice/Class-props-app.jsx';
 import ConditionalRender from './React-Practice/Conditional-rendering.jsx';
 import FormHandleing from './React-Practice/Form-handling.jsx';
+import FormValidation from './React-Practice/Form-validation.jsx';
 import Index from './React-Practice/Fuction-index.jsx';
 import Index1 from './React-Practice/Fuction-index1.jsx';
 import FirstPropes from './React-Practice/Function-props.jsx';
@@ -39,6 +40,7 @@ function App() {
       <HideShowToggle /> <br/> <br/>
       <FormHandleing /> <br/> <br/>
       <ConditionalRender /> <br/> <br/>
+      <FormValidation /> <br/> <br/>
     </>
   );
 }
