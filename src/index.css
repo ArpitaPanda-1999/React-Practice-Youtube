@@ -12,22 +12,4 @@ code {
     monospace;
 }
 
-.folder{
-  width: 25%;
-  background-color: rgb(224, 223, 222);
-  padding: 6px;
-  display: flex;
-  gap: 150px;
-}
 
-.box{
-  height: 100px;
-  width: 100px;
-  background-color: green;
-  color: whitesmoke;
-}
-
-.err{
-  display: inline-block;
-  color: #f10303;
-}
