@@ -1,8 +1,6 @@
-
-import AppPersonal3 from './React-Interview-coding-practice/Project-Drag-And-Drop/PersonalApp.js';
-import AppPersonal2 from './React-Interview-coding-practice/Project-Drag-And-Drop/PersonalApp.js';
+import AppPersonal2 from './React-Interview-coding-practice/Project-Drag-N-Drop/Personal-App.js';
 import AppPersonal from './React-Interview-coding-practice/Project-File-Manager/Personal-App.js';
-import AppPersonal1 from './React-Interview-coding-practice/Project-Pagination/Personal-App.js';
+// import AppPersonal1 from './React-Interview-coding-practice/Project-Pagination/Personal-App.js';
 import ClassIndex from './React-Practice/Class-index.jsx';
 import ClassIndex1 from './React-Practice/Class-index1.jsx';
 import ClassPropsApp from './React-Practice/Class-props-app.jsx';
@@ -26,9 +24,8 @@ function App() {
   return (
     <>
       <AppPersonal /> <br /> <br />
-      <AppPersonal1 /> <br/> <br/>
+      {/* <AppPersonal1 /><br/> <br/> */}
       <AppPersonal2 /> <br/> <br/>
-      {/* <AppPersonal3 /> <br/> <br/> */}
       <Index />  <br/> <br /> 
       <Index1 />  <br/> <br/>
       <ClassIndex />  <br/> <br/>
